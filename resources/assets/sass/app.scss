@@ -1,0 +1,14 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+.image-background {
+  background-image: url('../resources/assets/img/support.jpg')!important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
